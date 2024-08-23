@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+## Next.js Dashboard App
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This is a project to better familiarize myself with Next.js and do a better analysis of it's benefits and use as a Dashboard app. 
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+It is implemented in TypeScript, styled with Tailwind CSS, and has uses a postgresql database for customer data.
